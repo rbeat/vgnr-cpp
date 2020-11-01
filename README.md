@@ -1,4 +1,4 @@
-VGNR C++
+VGNR C++: 
 Vigenère Cipher Encryptor/Decryptor written in C/C++.
 ------------------------------------
 
